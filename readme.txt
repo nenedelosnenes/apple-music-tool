@@ -1,0 +1,1 @@
+This project will with the users permission download their playlists or library from apple music locally. This project can be extended with the use of a raspberry pi or arduino to make your own mp3 player.
